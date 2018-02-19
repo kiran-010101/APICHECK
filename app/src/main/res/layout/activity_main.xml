@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kiran.apicheck.MainActivity">
+
+
+
+    <view
+        class="com.google.android.youtube.player.YouTubePlayerView"
+        id="@+id/view4"
+        layout_alignParentLeft="true"
+        layout_alignParentStart="true"
+        layout_alignParentTop="true"
+        layout_marginLeft="47dp"
+        layout_marginStart="47dp"
+        layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/youtubeplayer" />
+
+    <Button
+        android:id="@+id/btnplay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="84dp"
+        android:text="Play"
+        android:layout_below="@+id/youtubeplayer"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/APICHECK/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/kiran/Downloads/androidstudioproject/ud851-Sunshine/APICHECK/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_03ba30087adc599f25f0676e58cb25ab6d4ea31d.jar" />
+    </item>
+
+</items>
